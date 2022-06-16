@@ -1,0 +1,36 @@
+ Flow Duration
+Bwd Packet Length Max
+ Bwd Packet Length Min
+ Bwd Packet Length Mean
+ Bwd Packet Length Std
+ Flow IAT Mean
+ Flow IAT Std
+ Flow IAT Max
+ Flow IAT Min
+Fwd IAT Total
+ Fwd IAT Mean
+ Fwd IAT Std
+ Fwd IAT Max
+ Bwd IAT Mean
+ Bwd IAT Std
+ Bwd IAT Max
+ Min Packet Length
+ Max Packet Length
+ Packet Length Mean
+ Packet Length Std
+ Packet Length Variance
+FIN Flag Count
+ PSH Flag Count
+ ACK Flag Count
+ Down/Up Ratio
+ Average Packet Size
+ Avg Bwd Segment Size
+Init_Win_bytes_forward
+Active Mean
+ Active Std
+ Active Max
+ Active Min
+Idle Mean
+ Idle Std
+ Idle Max
+ Idle Min
