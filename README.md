@@ -4,7 +4,7 @@ This repository contains my third year dissertation. My dissertation focused in 
 
 The goal is the creation of a lightweight NIDS that have results comparable to those of published methods. The code can be found in [here](/Code/Dissertation_Code.ipynb).
 
-The paper presented for my final year project can be found [here](/DNN_NIDS_FYP_2021/Dissertation%20PDF.pdf).
+The paper presented for my final year project can be found [here](/Dissertation PDF.pdf).
 
 # Abstract
 
