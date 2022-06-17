@@ -2,7 +2,7 @@
 
 This repository contains my third year dissertation. My dissertation focused in evaluating and creating a DNN for a Network Intrusion Detection System (NIDS).
 
-The goal is the creation of a lightweight NIDS that have results comparable to those of published methods. The code can be found in [here](/DNN_NIDS_FYP_2021/Code/Dissertation_Code.ipynb).
+The goal is the creation of a lightweight NIDS that have results comparable to those of published methods. The code can be found in [here](/DNN_NIDS_FYP_2021/blob/main/Code/Dissertation_Code.ipynb).
 
 The paper presented for my final year project can be found [here](/DNN_NIDS_FYP_2021/Dissertation%20PDF.pdf).
 
