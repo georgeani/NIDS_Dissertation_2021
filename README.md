@@ -26,8 +26,6 @@ could not be included in the submission due to their size.
 
 Note that this link is only accessible through University accounts.
 
-To view the code and the results please open the HTML file in this folder, file name B915247_21COC251.html.
-
 The code has been developed in the free environment provided by Google Colab.
 
 
